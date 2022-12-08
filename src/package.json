@@ -1,0 +1,16 @@
+{
+  "name": "actual-caption-speak-4230k",
+  "productName": "actual-caption-speak-4230k",
+  "description": "My Electron application description",
+  "keywords": [],
+  "main": "./js/main.js",
+  "version": "1.0.0",
+  "author": "Hikitami",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "20.1.4"
+  }
+}
